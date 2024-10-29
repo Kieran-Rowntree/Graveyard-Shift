@@ -1,0 +1,1412 @@
+﻿Log file open, 10/27/24 12:41:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GraveyardShift
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 38 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.706607
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 12th Gen Intel(R) Core(TM) i7-12700, GPU: NVIDIA GeForce RTX 3080
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: F:/UE_4.27/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2024.10.27-12.41.38:493][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2024.10.27-12.41.38:493][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2024.10.27-12.41.38:493][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Config/Windows/Engine.ini]
+[2024.10.27-12.41.38:493][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2024.10.27-12.41.38:493][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2024.10.27-12.41.38:493][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2024.10.27-12.41.38:493][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2024.10.27-12.41.38:493][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2024.10.27-12.41.38:493][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2024.10.27-12.41.38:493][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
+[2024.10.27-12.41.38:493][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2024.10.27-12.41.38:493][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2024.10.27-12.41.38:493][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2024.10.27-12.41.38:493][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2024.10.27-12.41.38:493][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.VT.EnableAutoImport:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.Mobile.ReflectionCaptureCompression:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[vr.VRS.HMDFixedFoveationLevel:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlightsShadow:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.Mobile.AmbientOcclusion:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluences:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluencesThreshold:8]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.Mobile.PlanarReflectionMode:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[r.Mobile.SupportsGen4TAA:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Config/Windows/Engine.ini]
+[2024.10.27-12.41.38:494][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Config/Windows/Engine.ini]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Config/Windows/Engine.ini]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2024.10.27-12.41.38:494][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Config/Windows/Engine.ini]
+[2024.10.27-12.41.38:494][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Config/Windows/Engine.ini]
+[2024.10.27-12.41.38:500][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Config/Windows/Scalability.ini]
+[2024.10.27-12.41.38:500][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.10.27-12.41.38:500][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.10.27-12.41.38:500][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Config/Windows/Scalability.ini]
+[2024.10.27-12.41.38:500][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.10.27-12.41.38:500][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Config/Windows/Scalability.ini]
+[2024.10.27-12.41.38:500][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.10.27-12.41.38:500][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.10.27-12.41.38:500][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.10.27-12.41.38:500][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.10.27-12.41.38:500][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.10.27-12.41.38:500][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.10.27-12.41.38:500][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.10.27-12.41.38:500][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.10.27-12.41.38:500][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.10.27-12.41.38:500][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.10.27-12.41.38:500][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.10.27-12.41.38:500][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.10.27-12.41.38:500][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.10.27-12.41.38:500][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.10.27-12.41.38:500][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.10.27-12.41.38:500][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.10.27-12.41.38:500][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.10.27-12.41.38:500][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.10.27-12.41.38:500][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Config/Windows/Scalability.ini]
+[2024.10.27-12.41.38:500][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.10.27-12.41.38:500][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Config/Windows/Scalability.ini]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Config/Windows/Scalability.ini]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Config/Windows/Scalability.ini]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Config/Windows/Scalability.ini]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.10.27-12.41.38:501][  0]LogInit: Selected Device Profile: [Windows]
+[2024.10.27-12.41.38:501][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2024.10.27-12.41.38:501][  0]LogHAL: Display: Platform has ~ 64 GB [68410646528 / 68719476736 / 64], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2024.10.27-12.41.38:501][  0]LogInit: Going up to parent DeviceProfile []
+[2024.10.27-12.41.38:501][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Config/Windows/Scalability.ini]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Config/Windows/Scalability.ini]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Config/Windows/Scalability.ini]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Config/Windows/Scalability.ini]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Config/Windows/Scalability.ini]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Config/Windows/Scalability.ini]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2024.10.27-12.41.38:501][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2024.10.27-12.41.38:502][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2024.10.27-12.41.38:502][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2024.10.27-12.41.38:502][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2024.10.27-12.41.38:502][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2024.10.27-12.41.38:502][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2024.10.27-12.41.38:502][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2024.10.27-12.41.38:502][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2024.10.27-12.41.38:502][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2024.10.27-12.41.38:502][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2024.10.27-12.41.38:502][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2024.10.27-12.41.38:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2024.10.27-12.41.38:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2024.10.27-12.41.38:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2024.10.27-12.41.38:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2024.10.27-12.41.38:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2024.10.27-12.41.38:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2024.10.27-12.41.38:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2024.10.27-12.41.38:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2024.10.27-12.41.38:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2024.10.27-12.41.38:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2024.10.27-12.41.38:502][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2024.10.27-12.41.38:502][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2024.10.27-12.41.38:502][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Config/Windows/Scalability.ini]
+[2024.10.27-12.41.38:502][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2024.10.27-12.41.38:502][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2024.10.27-12.41.38:502][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Config/Windows/Scalability.ini]
+[2024.10.27-12.41.38:502][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2024.10.27-12.41.38:502][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2024.10.27-12.41.38:502][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2024.10.27-12.41.38:502][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2024.10.27-12.41.38:502][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2024.10.27-12.41.38:502][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2024.10.27-12.41.38:502][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2024.10.27-12.41.38:502][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Config/Windows/Engine.ini]
+[2024.10.27-12.41.38:502][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Config/Windows/Editor.ini]
+[2024.10.27-12.41.38:502][  0]LogInit: Computer: TU39892
+[2024.10.27-12.41.38:502][  0]LogInit: User: C2979333
+[2024.10.27-12.41.38:502][  0]LogInit: CPU Page size=4096, Cores=12
+[2024.10.27-12.41.38:502][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2024.10.27-12.41.38:502][  0]LogMemory: Memory total: Physical=63.7GB (64GB approx)
+[2024.10.27-12.41.38:502][  0]LogMemory: Platform Memory Stats for Windows
+[2024.10.27-12.41.38:502][  0]LogMemory: Process Physical Memory: 148.95 MB used, 148.95 MB peak
+[2024.10.27-12.41.38:502][  0]LogMemory: Process Virtual Memory: 128.64 MB used, 128.64 MB peak
+[2024.10.27-12.41.38:502][  0]LogMemory: Physical Memory: 19774.32 MB used,  45467.16 MB free, 65241.48 MB total
+[2024.10.27-12.41.38:502][  0]LogMemory: Virtual Memory: 134162304.00 MB used,  55427.16 MB free, 134217728.00 MB total
+[2024.10.27-12.41.38:509][  0]LogWindows: WindowsPlatformFeatures enabled
+[2024.10.27-12.41.38:577][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2024.10.27-12.41.38:577][  0]LogInit: Using OS detected language (en-GB).
+[2024.10.27-12.41.38:577][  0]LogInit: Using OS detected locale (en-GB).
+[2024.10.27-12.41.38:580][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2024.10.27-12.41.38:712][  0]LogInit: Setting process to per monitor DPI aware
+[2024.10.27-12.41.38:729][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.10.27-12.41.38:740][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2024.10.27-12.41.38:740][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2024.10.27-12.41.38:855][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2024.10.27-12.41.38:863][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.10.27-12.41.38:863][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2024.10.27-12.41.38:863][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2024.10.27-12.41.38:863][  0]LogD3D11RHI: D3D11 adapters:
+[2024.10.27-12.41.38:978][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3080' (Feature Level 11_0)
+[2024.10.27-12.41.38:978][  0]LogD3D11RHI:       10053/0/32620 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2024.10.27-12.41.39:025][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 770' (Feature Level 11_0)
+[2024.10.27-12.41.39:025][  0]LogD3D11RHI:       128/0/32620 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2024.10.27-12.41.39:028][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2024.10.27-12.41.39:028][  0]LogD3D11RHI:       0/0/32620 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2024.10.27-12.41.39:028][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2024.10.27-12.41.39:028][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3080
+[2024.10.27-12.41.39:028][  0]LogD3D11RHI:     VendorId    : 10de
+[2024.10.27-12.41.39:028][  0]LogD3D11RHI:     DeviceId    : 2216
+[2024.10.27-12.41.39:028][  0]LogD3D11RHI:     SubSysId    : 88d7103c
+[2024.10.27-12.41.39:028][  0]LogD3D11RHI:     Revision    : 00a1
+[2024.10.27-12.41.39:028][  0]LogD3D11RHI:     DedicatedVideoMemory : 10541334528 bytes
+[2024.10.27-12.41.39:028][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2024.10.27-12.41.39:028][  0]LogD3D11RHI:     SharedSystemMemory : 34205323264 bytes
+[2024.10.27-12.41.39:028][  0]LogD3D11RHI:     AdapterLuid : 0 173691
+[2024.10.27-12.41.39:033][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2024.10.27-12.41.39:033][  0]LogD3D11RHI:     GPU DeviceId: 0x2216 (for the marketing name, search the web for "GPU Device Id")
+[2024.10.27-12.41.39:033][  0]LogWindows: EnumDisplayDevices:
+[2024.10.27-12.41.39:033][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3080' (P:0 D:1)
+[2024.10.27-12.41.39:033][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3080' (P:1 D:1)
+[2024.10.27-12.41.39:034][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3080' (P:0 D:0)
+[2024.10.27-12.41.39:034][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3080' (P:0 D:0)
+[2024.10.27-12.41.39:034][  0]LogWindows:    4. 'Intel(R) UHD Graphics 770' (P:0 D:0)
+[2024.10.27-12.41.39:035][  0]LogWindows:    5. 'Intel(R) UHD Graphics 770' (P:0 D:0)
+[2024.10.27-12.41.39:035][  0]LogWindows:    6. 'Intel(R) UHD Graphics 770' (P:0 D:0)
+[2024.10.27-12.41.39:035][  0]LogWindows:    7. 'Intel(R) UHD Graphics 770' (P:0 D:0)
+[2024.10.27-12.41.39:035][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2024.10.27-12.41.39:035][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3080
+[2024.10.27-12.41.39:035][  0]LogD3D11RHI:   Driver Version: 551.78 (internal:31.0.15.5178, unified:551.78)
+[2024.10.27-12.41.39:035][  0]LogD3D11RHI:      Driver Date: 3-5-2024
+[2024.10.27-12.41.39:035][  0]LogRHI: Texture pool is 7037 MB (70% of 10053 MB)
+[2024.10.27-12.41.39:035][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2024.10.27-12.41.39:035][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3080
+[2024.10.27-12.41.39:035][  0]LogD3D11RHI:     VendorId    : 10de
+[2024.10.27-12.41.39:035][  0]LogD3D11RHI:     DeviceId    : 2216
+[2024.10.27-12.41.39:035][  0]LogD3D11RHI:     SubSysId    : 88d7103c
+[2024.10.27-12.41.39:035][  0]LogD3D11RHI:     Revision    : 00a1
+[2024.10.27-12.41.39:035][  0]LogD3D11RHI:     DedicatedVideoMemory : 10541334528 bytes
+[2024.10.27-12.41.39:035][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2024.10.27-12.41.39:036][  0]LogD3D11RHI:     SharedSystemMemory : 34205323264 bytes
+[2024.10.27-12.41.39:036][  0]LogD3D11RHI:     AdapterLuid : 0 173691
+[2024.10.27-12.41.39:094][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2024.10.27-12.41.39:094][  0]LogD3D11RHI: Async texture creation enabled
+[2024.10.27-12.41.39:094][  0]LogD3D11RHI: Array index from any shader is supported
+[2024.10.27-12.41.39:113][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2024.10.27-12.41.39:153][  0]LogRHI: GeForceNow SDK initialized: 1
+[2024.10.27-12.41.39:680][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2024.10.27-12.41.39:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2024.10.27-12.41.39:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2024.10.27-12.41.39:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2024.10.27-12.41.39:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2024.10.27-12.41.39:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2024.10.27-12.41.39:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2024.10.27-12.41.39:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2024.10.27-12.41.39:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2024.10.27-12.41.39:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2024.10.27-12.41.39:696][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2024.10.27-12.41.39:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2024.10.27-12.41.39:716][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2024.10.27-12.41.39:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2024.10.27-12.41.39:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2024.10.27-12.41.39:736][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2024.10.27-12.41.39:741][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2024.10.27-12.41.39:750][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2024.10.27-12.41.39:755][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2024.10.27-12.41.39:760][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2024.10.27-12.41.39:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2024.10.27-12.41.39:780][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2024.10.27-12.41.39:789][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2024.10.27-12.41.39:794][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2024.10.27-12.41.39:800][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2024.10.27-12.41.39:804][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2024.10.27-12.41.39:813][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2024.10.27-12.41.39:813][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2024.10.27-12.41.39:823][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2024.10.27-12.41.39:829][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2024.10.27-12.41.39:834][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2024.10.27-12.41.39:839][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2024.10.27-12.41.39:839][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2024.10.27-12.41.39:851][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2024.10.27-12.41.39:891][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2024.10.27-12.41.39:933][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2024.10.27-12.41.39:933][  0]LogShaderCompilers: Guid format shader working directory is -17 characters bigger than the processId version (C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Intermediate/Shaders/WorkingDirectory/20520/).
+[2024.10.27-12.41.39:933][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/C2979333/AppData/Local/Temp/UnrealShaderWorkingDir/2251F4E34AB04DBB894E3FAC571B5A94/'.
+[2024.10.27-12.41.39:933][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2024.10.27-12.41.39:933][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2024.10.27-12.41.39:933][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2024.10.27-12.41.40:541][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2024.10.27-12.41.40:584][  0]LogDerivedDataCache: Loaded boot cache 0.04s 96MB C:/Users/C2979333/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2024.10.27-12.41.40:584][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/C2979333/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2024.10.27-12.41.40:585][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2024.10.27-12.41.40:585][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2024.10.27-12.41.40:585][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.10.27-12.41.40:585][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2024.10.27-12.41.40:596][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2024.10.27-12.41.40:597][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2024.10.27-12.41.40:597][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2024.10.27-12.41.40:614][  0]LogDerivedDataCache: Speed tests for C:/Users/C2979333/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2024.10.27-12.41.40:614][  0]LogDerivedDataCache: Display: Performance to C:/Users/C2979333/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=795.08MBs, RandomWriteSpeed=58.19MBs. Assigned SpeedClass 'Local'
+[2024.10.27-12.41.40:615][  0]LogDerivedDataCache: Using Local data cache path C:/Users/C2979333/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2024.10.27-12.41.40:615][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2024.10.27-12.41.40:615][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2024.10.27-12.41.40:650][  0]LogSlate: Using FreeType 2.10.0
+[2024.10.27-12.41.40:651][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.10.27-12.41.40:671][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2024.10.27-12.41.40:845][  0]LogInit: Selected Device Profile: [Windows]
+[2024.10.27-12.41.40:845][  0]LogInit: Active device profile: [000002275B3FA400][000002274CF43C00 49] Windows
+[2024.10.27-12.41.40:845][  0]LogInit: Profiles: [000002275B3FA400][000002274CF43C00 49] Windows, [000002275B3AE300][00000227595F2200 49] WindowsNoEditor, [000002275B3FA700][00000227595F6380 49] WindowsServer, [000002275B3AED00][00000227595FA500 49] WindowsClient, [000002275B3FAA00][00000227595FE680 49] IOS, [000002275B3ADF00][0000022759602800 49] iPadAir, [000002275B3FA600][000002274CF46940 49] iPadAir2, [000002275B361B00][000002275960AB80 49] IPadPro, [000002275B361C00][0000022759606BC0 49] iPadAir3, [000002275B3F9800][000002275B7DED00 49] iPadAir4, [000002275B361A00][000002275B7E6E80 49] iPadMini2, [000002275B3F9F00][000002275B7EB000 49] iPadMini3, [000002275B363F00][000002275B7EF180 49] iPadMini4, [000002275B3F9C00][000002275B7F3300 49] iPadMini5, [000002275B3A1300][000002275B7FB5C0 49] iPhone6, [000002275B3A1400][000002275B7F7600 49] iPodTouch6, [000002275B360500][000002275B8038C0 49] iPhone7, [000002275B360400][000002275B7FF900 49] iPodTouch7, [000002275B3A3900][000002275B807A80 49] iPhone5S, [000002275B361E00][000002275B80BC00 49] iPhone6Plus, [000002275B3A3600][000002275B80E200 49] iPhone6S, [000002275B362200][000002275B812380 49] iPhone6SPlus, [000002275B3A3A00][000002275B816500 49] iPhone7Plus, [000002275B361900][000002275B81A680 49] iPhoneSE, [000002275B3A3000][000002275B81E800 49] iPhone8, [000002275B362600][000002275B822980 49] iPhone8Plus, [000002275B3A0900][000002275B826B00 49] iPhoneX, [000002275B362B00][000002275B7E2C40 49] iPhoneXS, [000002275B3A1D00][000002275B82AD80 49] iPhoneXSMax, [000002275B363400][000002275B82EEC0 49] iPhoneXR, [000002275B3A3100][000002275B837040 49] iPhone11, [000002275B360300][000002275B83B1C0 49] iPhone11Pro, [000002275B3A3D00][000002275B83F340 49] iPhone11ProMax, [000002275B362100][000002275B8434C0 49] iPhoneSE2, [000002275B3A1A00][000002275B847640 49] iPhone12Mini, [000002275B361100][000002275B84B7C0 49] iPhone12, [000002275B3A1100][000002275B84F940 49] iPhone12Pro, [000002275B363200][000002275B853AC0 49] iPhone12ProMax, [000002275B3A3500][000002275B8560C0 49] iPadPro105, [000002275B363900][000002275B85A240 49] iPadPro129, [000002275B3A3B00][000002275B85E3C0 49] iPadPro97, [000002275B360100][000002275B862540 49] iPadPro2_129, [000002275B3A0200][000002275B8666C0 49] iPad5, [000002275B362F00][000002275B86A840 49] iPad6, [000002275B3AEF00][000002275B86E9C0 49] iPad7, [000002275B435C00][000002275B872B40 49] iPad8, [000002275B3ACC00][000002275B876CC0 49] iPadPro11, [000002275B434300][000002275B832E00 49] iPadPro2_11, [000002275B3AF700][000002275B87AF40 49] iPadPro3_129, [000002275B434D00][000002275B87F080 49] iPadPro4_129, [000002275B3AD600][000002275B8831C0 49] AppleTV, [000002275B434F00][000002275B88B340 49] AppleTV4K, [000002275B362C00][000002275B88F4C0 49] TVOS, [000002275B3A1900][000002275B893640 49] Mac, [000002275B361400][000002275B8977C0 49] MacClient, [000002275B3A1600][000002275B89B940 49] MacNoEditor, [000002275B362900][000002275B89FAC0 49] MacServer, [000002275B3A1E00][000002275B8AE0C0 49] Linux, [000002275B363700][000002275B8B2240 49] LinuxAArch64, [000002275B3A3E00][000002275B8BA3C0 49] LinuxNoEditor, [000002275B361D00][000002275B8BE540 49] LinuxAArch64NoEditor, [000002275B3A2900][000002275B8C26C0 49] LinuxClient, [000002275B362500][000002275B926840 49] LinuxAArch64Client, [000002275B3A0400][000002275B92A9C0 49] LinuxServer, [000002275B361F00][000002275B956B40 49] LinuxAArch64Server, [000002275B3A3200][000002275B972CC0 49] Android, [000002275B362D00][000002275B976E40 49] Android_Low, [000002275B3A1800][000002275B886F80 49] Android_Mid, [000002275B360600][000002275B97F0C0 49] Android_High, [000002275B3A1500][000002274D10D200 49] Android_Default, [000002275B360B00][000002274D111340 49] Android_Adreno4xx, [000002275B3A0D00][000002274D1194C0 49] Android_Adreno5xx_Low, [000002275B435F00][000002274D11D640 49] Android_Adreno5xx, [000002275B3A2E00][00000227559C17C0 49] Android_Adreno6xx, [000002275B363E00][00000227559C5940 49] Android_Adreno6xx_Vulkan, [000002275B3A1700][00000227559C9AC0 49] Android_Mali_T6xx, [000002275B363800][00000227559CC0C0 49] Android_Mali_T7xx, [000002275B3A0A00][00000227559D0240 49] Android_Mali_T8xx, [000002275B361500][00000227559D43C0 49] Android_Mali_G71, [000002275B3A0500][0000022755A52540 49] Android_Mali_G72, [000002275B361200][0000022755A566C0 49] Android_Mali_G72_Vulkan, [000002275B3A0800][0000022755A5A840 49] Android_Mali_G76, [000002275B360C00][000002274FF069C0 49] Android_Mali_G76_Vulkan, [000002275B3A2200][000002274FF0AB40 49] Android_Mali_G77, [000002275B363500][000002274FF0ECC0 49] Android_Mali_G77_Vulkan, [000002275B3A2300][000002274FF12E40 49] Android_Mali_G78, [000002275B362800][000002274FF2AFC0 49] Android_Mali_G78_Vulkan, [000002275B3A3300][000002274FF39140 49] Android_Mali_G710, [000002275B363300][000002274D115280 49] Android_Mali_G710_Vulkan, [000002275B3A2D00][000002275BA073C0 49] Android_Vulkan_SM5, [000002275B363D00][000002275BA0F500 49] Android_PowerVR_G6xxx, [000002275B3A0300][000002275BA17680 49] Android_PowerVR_GT7xxx, [000002275B361600][000002275BA1B800 49] Android_PowerVR_GE8xxx, [000002275B3A3C00][000002274FF59980 49] Android_PowerVR_GM9xxx, [000002275B360D00][000002274CDABB00 49] Android_PowerVR_GM9xxx_Vulkan, [000002275B3A3F00][000002274CDAE100 49] Android_TegraK1, [000002275B3F9600][000002274CDB2280 49] Android_Unknown_Vulkan, [000002275B3AC900][000002274CDB6400 49] Lumin, [000002275B3F9D00][000002274CDBA580 49] Lumin_Desktop, [000002275B3AE500][000002274CDBE700 49] HoloLens, 
+[2024.10.27-12.41.40:988][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2024.10.27-12.41.40:988][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2024.10.27-12.41.40:988][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2024.10.27-12.41.40:988][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2024.10.27-12.41.40:988][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2024.10.27-12.41.41:004][  0]LogNetVersion: GraveyardShift 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3626386307)
+[2024.10.27-12.41.41:305][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2024.10.27-12.41.41:349][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2024.10.27-12.41.41:353][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2024.10.27-12.41.41:353][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2024.10.27-12.41.41:353][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.10.27-12.41.41:679][  0]LogPython: Using Python 3.7.7
+[2024.10.27-12.41.42:011][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 4EE3A2E5468DD1A231F3A3AB54A20742 | Instance: 760A5CA543ABD24C08743FB023747717 (TU39892-20520).
+[2024.10.27-12.41.42:154][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2024.10.27-12.41.42:160][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2024.10.27-12.41.42:402][  0]SourceControl: Source control is disabled
+[2024.10.27-12.41.42:402][  0]SourceControl: Source control is disabled
+[2024.10.27-12.41.42:406][  0]SourceControl: Source control is disabled
+[2024.10.27-12.41.42:410][  0]SourceControl: Source control is disabled
+[2024.10.27-12.41.42:420][  0]SourceControl: Source control is disabled
+[2024.10.27-12.41.42:428][  0]LogUProjectInfo: Found projects:
+[2024.10.27-12.41.42:586][  0]LogOpenImageDenoise: OIDN starting up
+[2024.10.27-12.41.42:645][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.10.27-12.41.42:673][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.10.27-12.41.42:673][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2024.10.27-12.41.42:794][  0]LogCollectionManager: Loaded 0 collections in 0.000526 seconds
+[2024.10.27-12.41.42:821][  0]LogFileCache: Scanning file cache for directory 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Collections/' took 0.00s
+[2024.10.27-12.41.42:821][  0]LogFileCache: Scanning file cache for directory 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/Developers/C2979333/Collections/' took 0.00s
+[2024.10.27-12.41.42:821][  0]LogFileCache: Scanning file cache for directory 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/Collections/' took 0.00s
+[2024.10.27-12.41.42:821][  0]LogOcInput: OculusInput pre-init called
+[2024.10.27-12.41.43:007][  0]LogEngine: Initializing Engine...
+[2024.10.27-12.41.43:012][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2024.10.27-12.41.43:012][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2024.10.27-12.41.43:012][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2024.10.27-12.41.43:013][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.10.27-12.41.43:105][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.10.27-12.41.43:113][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.10.27-12.41.43:114][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2024.10.27-12.41.43:119][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2024.10.27-12.41.43:119][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2024.10.27-12.41.43:119][  0]LogAudio: Display: Audio Device Manager Initialized
+[2024.10.27-12.41.43:119][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2024.10.27-12.41.43:119][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.27-12.41.43:119][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.27-12.41.43:119][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.27-12.41.43:119][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.27-12.41.43:119][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.27-12.41.43:119][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.27-12.41.43:119][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.27-12.41.43:119][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.27-12.41.43:119][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.27-12.41.43:119][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.27-12.41.43:119][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.27-12.41.43:119][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.27-12.41.43:131][  0]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.27-12.41.43:131][  0]LogAudioMixer: Display: 1: FrontRight
+[2024.10.27-12.41.43:199][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.10.27-12.41.43:200][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.27-12.41.43:203][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.27-12.41.43:203][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.27-12.41.43:204][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.27-12.41.43:204][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.27-12.41.43:204][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.27-12.41.43:205][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.27-12.41.43:205][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.27-12.41.43:205][  0]LogInit: FAudioDevice initialized.
+[2024.10.27-12.41.43:205][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2024.10.27-12.41.43:205][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.10.27-12.41.43:254][  0]LogDerivedDataCache: Saved boot cache 0.05s 96MB C:/Users/C2979333/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2024.10.27-12.41.43:256][  0]LogInit: Texture streaming: Enabled
+[2024.10.27-12.41.43:271][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2024.10.27-12.41.43:278][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2024.10.27-12.41.43:278][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2024.10.27-12.41.43:284][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2024.10.27-12.41.43:315][  0]LogInit: Transaction tracking system initialized
+[2024.10.27-12.41.43:341][  0]BlueprintLog: New page: Editor Load
+[2024.10.27-12.41.43:413][  0]LocalizationService: Localization service is disabled
+[2024.10.27-12.41.43:442][  0]TimingProfiler: Initialize
+[2024.10.27-12.41.43:442][  0]TimingProfiler: OnSessionChanged
+[2024.10.27-12.41.43:442][  0]LoadingProfiler: Initialize
+[2024.10.27-12.41.43:442][  0]LoadingProfiler: OnSessionChanged
+[2024.10.27-12.41.43:442][  0]NetworkingProfiler: Initialize
+[2024.10.27-12.41.43:442][  0]NetworkingProfiler: OnSessionChanged
+[2024.10.27-12.41.43:442][  0]MemoryProfiler: Initialize
+[2024.10.27-12.41.43:442][  0]MemoryProfiler: OnSessionChanged
+[2024.10.27-12.41.43:609][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2024.10.27-12.41.43:609][  0]LogCook: Display: Mobile HDR setting 0
+[2024.10.27-12.41.43:811][  0]LogFileCache: Scanning file cache for directory 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/' took 0.01s
+[2024.10.27-12.41.43:939][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2024.10.27-12.41.43:944][  0]SourceControl: Source control is disabled
+[2024.10.27-12.41.43:945][  0]LogUnrealEdMisc: Loading editor; pre map load, took 6.886
+[2024.10.27-12.41.43:945][  0]Cmd: MAP LOAD FILE="C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.10.27-12.41.43:945][  0]LightingResults: New page: Lighting Build
+[2024.10.27-12.41.43:946][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2024.10.27-12.41.43:946][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-12.41.43:946][  0]MapCheck: New page: Map Check
+[2024.10.27-12.41.43:946][  0]LightingResults: New page: Lighting Build
+[2024.10.27-12.41.43:948][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.27-12.41.43:951][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.10.27-12.41.44:154][  0]LogTexture: Display: Building textures: MrSmall_RiseUp-Sheet (BGRA8, 2520X160)
+[2024.10.27-12.41.44:154][  0]LogTexture: Display: Building textures: Background (OODLE_AutoDXT, 1920X1080)
+[2024.10.27-12.41.44:154][  0]LogTextureFormatOodle: Display: non-RDO encode 1920 x 1080 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2024.10.27-12.41.44:154][  0]LogTexture: Display: Building textures: MrSmall_Walk-Sheet (BGRA8, 540X160)
+[2024.10.27-12.41.44:154][  0]LogTexture: Display: Building textures: MRSMALL_Idle-Sheet (BGRA8, 540X160)
+[2024.10.27-12.41.44:154][  0]LogTexture: Display: Building textures: MrSmall_Hit-Sheet (BGRA8, 1260X160)
+[2024.10.27-12.41.44:154][  0]LogTexture: Display: Building textures: MRSMALL_Slide-Sheet (BGRA8, 1440X160)
+[2024.10.27-12.41.44:154][  0]LogTexture: Display: Building textures: MrSmall_Dead-Sheet (BGRA8, 2700X160)
+[2024.10.27-12.41.44:154][  0]LogTexture: Display: Building textures: MRSMALL_Jump-Sheet (BGRA8, 2340X160)
+[2024.10.27-12.41.44:154][  0]LogTexture: Display: Building textures: MrBig-Idle_Sheet (BGRA8, 2310X560)
+[2024.10.27-12.41.44:154][  0]LogTexture: Display: Building textures: MrBig_Walk-Sheet (BGRA8, 6160X560)
+[2024.10.27-12.41.44:298][  0]LogTexture: Display: Building textures: MrBig-LandSheet (BGRA8, 5390X560)
+[2024.10.27-12.41.44:298][  0]LogTexture: Display: Building textures: MrBig-JumpSheet (BGRA8, 4620X560)
+[2024.10.27-12.41.44:298][  0]LogTexture: Display: Building textures: MrBig-RiseUpNewSheet (BGRA8, 3850X2800)
+[2024.10.27-12.41.44:313][  0]LogAudio: Display: Audio Device (ID: 1) registered with world '2DSideScrollerExampleMap'.
+[2024.10.27-12.41.44:313][  0]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2024.10.27-12.41.44:335][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.10.27-12.41.44:341][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.10.27-12.41.44:349][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.10.27-12.41.44:349][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.159ms to complete.
+[2024.10.27-12.41.44:349][  0]LogFileHelpers: Loading map '2DSideScrollerExampleMap' took 0.405
+[2024.10.27-12.41.44:351][  0]LogUnrealEdMisc: Total Editor Startup Time, took 7.292
+[2024.10.27-12.41.44:457][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.27-12.41.44:461][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.27-12.41.44:465][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.27-12.41.44:468][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.27-12.41.44:481][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0063 seconds. Added 3822 classes and 928 folders.
+[2024.10.27-12.41.44:482][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2024.10.27-12.41.44:484][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.10.27-12.41.44:484][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.27-12.41.44:484][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.10.27-12.41.44:484][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/UE_4.27/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.27-12.41.44:484][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/UE_4.27/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2024.10.27-12.41.44:484][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2024.10.27-12.41.44:484][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2024.10.27-12.41.44:484][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.27-12.41.44:484][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2024.10.27-12.41.44:484][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/UE_4.27/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.27-12.41.44:484][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/UE_4.27/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2024.10.27-12.41.44:484][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2024.10.27-12.41.44:485][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2024.10.27-12.41.44:485][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.27-12.41.44:485][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2024.10.27-12.41.44:485][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/UE_4.27/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.27-12.41.44:485][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/UE_4.27/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2024.10.27-12.41.44:485][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2024.10.27-12.41.44:485][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.10.27-12.41.44:485][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.27-12.41.44:485][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.10.27-12.41.44:485][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/UE_4.27/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.27-12.41.44:485][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/UE_4.27/UE_4.27/FeaturePacks/StarterContent.upack)
+[2024.10.27-12.41.44:485][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2024.10.27-12.41.44:486][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2024.10.27-12.41.44:486][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.27-12.41.44:486][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2024.10.27-12.41.44:486][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/UE_4.27/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.27-12.41.44:486][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/UE_4.27/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2024.10.27-12.41.44:486][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2024.10.27-12.41.44:487][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2024.10.27-12.41.44:487][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.27-12.41.44:487][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2024.10.27-12.41.44:487][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/UE_4.27/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.27-12.41.44:487][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/UE_4.27/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2024.10.27-12.41.44:487][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2024.10.27-12.41.44:487][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2024.10.27-12.41.44:487][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.27-12.41.44:487][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2024.10.27-12.41.44:487][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/UE_4.27/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.27-12.41.44:487][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/UE_4.27/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2024.10.27-12.41.44:487][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2024.10.27-12.41.44:487][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2024.10.27-12.41.44:487][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.27-12.41.44:487][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2024.10.27-12.41.44:487][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/UE_4.27/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.27-12.41.44:487][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/UE_4.27/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2024.10.27-12.41.44:487][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2024.10.27-12.41.44:498][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.10.27-12.41.44:498][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.27-12.41.44:498][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.10.27-12.41.44:498][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/UE_4.27/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.27-12.41.44:498][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/UE_4.27/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2024.10.27-12.41.44:498][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2024.10.27-12.41.44:508][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2024.10.27-12.41.44:508][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.27-12.41.44:508][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2024.10.27-12.41.44:508][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/UE_4.27/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.27-12.41.44:508][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/UE_4.27/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2024.10.27-12.41.44:508][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2024.10.27-12.41.44:509][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2024.10.27-12.41.44:509][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.27-12.41.44:509][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2024.10.27-12.41.44:509][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/UE_4.27/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.27-12.41.44:509][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/UE_4.27/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2024.10.27-12.41.44:509][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2024.10.27-12.41.44:509][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.10.27-12.41.44:509][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.27-12.41.44:509][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.10.27-12.41.44:509][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/UE_4.27/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.27-12.41.44:509][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/UE_4.27/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2024.10.27-12.41.44:509][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2024.10.27-12.41.44:509][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.10.27-12.41.44:509][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.27-12.41.44:509][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.10.27-12.41.44:509][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/UE_4.27/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.27-12.41.44:510][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/UE_4.27/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2024.10.27-12.41.44:510][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2024.10.27-12.41.44:510][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.10.27-12.41.44:510][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.27-12.41.44:510][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.10.27-12.41.44:510][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/UE_4.27/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.27-12.41.44:510][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/UE_4.27/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2024.10.27-12.41.44:510][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2024.10.27-12.41.44:510][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2024.10.27-12.41.44:510][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.27-12.41.44:510][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2024.10.27-12.41.44:510][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/UE_4.27/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.27-12.41.44:510][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/UE_4.27/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2024.10.27-12.41.44:510][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2024.10.27-12.41.44:511][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.10.27-12.41.44:511][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.27-12.41.44:511][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.10.27-12.41.44:511][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/UE_4.27/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.27-12.41.44:511][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/UE_4.27/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2024.10.27-12.41.44:511][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2024.10.27-12.41.44:511][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2024.10.27-12.41.44:511][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.27-12.41.44:511][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2024.10.27-12.41.44:511][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/UE_4.27/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.27-12.41.44:511][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/UE_4.27/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2024.10.27-12.41.44:511][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2024.10.27-12.41.44:512][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.10.27-12.41.44:512][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.27-12.41.44:512][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.10.27-12.41.44:512][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/UE_4.27/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.27-12.41.44:512][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/UE_4.27/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2024.10.27-12.41.44:512][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2024.10.27-12.41.44:512][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.10.27-12.41.44:512][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.27-12.41.44:512][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.10.27-12.41.44:512][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/UE_4.27/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.27-12.41.44:512][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/UE_4.27/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2024.10.27-12.41.44:512][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2024.10.27-12.41.44:513][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.10.27-12.41.44:513][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.27-12.41.44:513][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.10.27-12.41.44:513][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/UE_4.27/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.27-12.41.44:513][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/UE_4.27/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2024.10.27-12.41.44:513][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2024.10.27-12.41.44:513][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2024.10.27-12.41.44:513][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.27-12.41.44:513][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2024.10.27-12.41.44:513][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/UE_4.27/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.27-12.41.44:513][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/UE_4.27/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2024.10.27-12.41.44:513][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2024.10.27-12.41.44:513][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2024.10.27-12.41.44:513][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.27-12.41.44:513][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2024.10.27-12.41.44:513][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/UE_4.27/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.27-12.41.44:513][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/UE_4.27/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2024.10.27-12.41.44:513][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2024.10.27-12.41.44:514][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2024.10.27-12.41.44:514][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.27-12.41.44:514][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2024.10.27-12.41.44:514][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/UE_4.27/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.27-12.41.44:514][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/UE_4.27/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2024.10.27-12.41.44:514][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2024.10.27-12.41.44:514][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2024.10.27-12.41.44:514][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.27-12.41.44:514][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2024.10.27-12.41.44:514][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/UE_4.27/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.27-12.41.44:514][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/UE_4.27/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2024.10.27-12.41.44:514][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2024.10.27-12.41.44:515][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2024.10.27-12.41.44:515][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.27-12.41.44:515][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2024.10.27-12.41.44:515][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/UE_4.27/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.27-12.41.44:515][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/UE_4.27/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2024.10.27-12.41.44:515][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2024.10.27-12.41.44:515][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2024.10.27-12.41.44:515][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2024.10.27-12.41.44:515][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2024.10.27-12.41.44:515][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'F:/UE_4.27/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2024.10.27-12.41.44:515][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:F:/UE_4.27/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2024.10.27-12.41.44:515][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2024.10.27-12.41.44:646][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2024.10.27-12.41.44:647][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2024.10.27-12.41.44:695][  0]LogSlate: Took 0.000251 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2024.10.27-12.41.44:697][  0]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.10.27-12.41.44:697][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2024.10.27-12.41.44:785][  0]LogRenderer: Reallocating scene render targets to support 1208x648 Format 10 NumSamples 1 (Frame:1).
+[2024.10.27-12.41.44:884][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2024.10.27-12.41.44:884][  0]LogLoad: (Engine Initialization) Total time: 7.83 seconds
+[2024.10.27-12.41.44:884][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2024.10.27-12.41.44:917][  0]LogAssetRegistry: Asset discovery search completed in 4.2478 seconds
+[2024.10.27-12.41.44:922][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2024.10.27-12.41.44:923][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2024.10.27-12.41.44:986][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/' took 0.09s
+[2024.10.27-12.41.45:003][  2]LogSlate: Took 0.000352 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.10.27-12.41.45:904][102]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.10.27-12.41.48:026][288]LogTemp: Repeating last play command: Selected Viewport
+[2024.10.27-12.41.48:036][288]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.27-12.41.48:036][288]PIE: New page: PIE session: 2DSideScrollerExampleMap (27 Oct 2024, 12:41:48)
+[2024.10.27-12.41.48:037][288]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2024.10.27-12.41.48:038][288]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.10.27-12.41.48:038][288]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2024.10.27-12.41.48:040][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002034s)
+[2024.10.27-12.41.48:041][288]LogAIModule: Creating AISystem for world 2DSideScrollerExampleMap
+[2024.10.27-12.41.48:042][288]LogPlayLevel: PIE: World Init took: (0.001868s)
+[2024.10.27-12.41.48:042][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.2DSideScrollerExampleMap to /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap (0.004011s)
+[2024.10.27-12.41.48:046][288]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.10.27-12.41.48:047][288]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.10.27-12.41.48:047][288]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.27-12.41.48:047][288]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.27-12.41.48:047][288]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.27-12.41.48:047][288]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.27-12.41.48:047][288]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.27-12.41.48:047][288]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.10.27-12.41.48:047][288]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.27-12.41.48:047][288]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.27-12.41.48:047][288]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.27-12.41.48:047][288]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.27-12.41.48:047][288]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.27-12.41.48:047][288]LogAudioMixer: Display: Initializing audio mixer.
+[2024.10.27-12.41.48:050][288]LogAudioMixer: Display: 0: FrontLeft
+[2024.10.27-12.41.48:050][288]LogAudioMixer: Display: 1: FrontRight
+[2024.10.27-12.41.48:079][288]LogAudioMixer: Display: Using Audio Device Speakers (Realtek(R) Audio)
+[2024.10.27-12.41.48:079][288]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.27-12.41.48:079][288]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.27-12.41.48:079][288]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.27-12.41.48:079][288]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.10.27-12.41.48:079][288]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.10.27-12.41.48:079][288]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.10.27-12.41.48:080][288]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.10.27-12.41.48:080][288]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.10.27-12.41.48:080][288]LogInit: FAudioDevice initialized.
+[2024.10.27-12.41.48:080][288]LogAudio: Display: Audio Device (ID: 2) registered with world '2DSideScrollerExampleMap'.
+[2024.10.27-12.41.48:084][288]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2024.10.27-12.41.48:086][288]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap.2DSideScrollerExampleMap up for play (max tick rate 0) at 2024.10.27-12.41.48
+[2024.10.27-12.41.48:086][288]LogWorld: Bringing up level for play took: 0.000508
+[2024.10.27-12.41.48:086][288]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2024.10.27-12.41.48:088][288]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 20 classes and 0 folders.
+[2024.10.27-12.41.48:090][288]PIE: Server logged in
+[2024.10.27-12.41.48:091][288]PIE: Play in editor total start time 0.06 seconds.
+[2024.10.27-12.41.55:961][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.27-12.41.55:961][215]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_2DSideScrollerExampleMap
+[2024.10.27-12.41.55:962][215]LogWorld: UWorld::CleanupWorld for 2DSideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2024.10.27-12.41.55:962][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-12.41.55:971][215]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.27-12.41.55:972][215]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-12.41.55:975][215]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.27-12.41.55:975][215]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.27-12.41.55:976][215]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.27-12.41.55:980][215]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.27-12.41.55:982][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.10.27-12.41.56:033][221]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2024.10.27-12.42.04:946][613]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.10.27-12.42.04:965][613]LogContentBrowser: Creating deferred item: NewFolder
+[2024.10.27-12.42.09:282][ 35]LogContentBrowser: Attempting asset rename: NewFolder -> NathanFolder
+[2024.10.27-12.42.09:282][ 35]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.27-12.42.16:743][727]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.10.27-12.42.16:748][727]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.10.27-12.42.20:729][198]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> MenuWidget
+[2024.10.27-12.42.20:730][198]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.10.27-12.42.22:063][354]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/2DSideScrollerBP/NathanFolder/MenuWidget.MenuWidget
+[2024.10.27-12.42.22:192][354]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 126 classes and 0 folders.
+[2024.10.27-12.42.22:857][354]LogSlate: Took 0.000253 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.10.27-12.42.28:838][993]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.10.27-12.42.28:846][993]LogContentBrowser: Creating deferred item: NewFolder
+[2024.10.27-12.42.31:435][281]LogContentBrowser: Attempting asset rename: NewFolder -> MyArt
+[2024.10.27-12.42.31:436][281]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.27-12.42.44:971][588]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Aseprite\Graveyard Shift\GSLogo.png)
+[2024.10.27-12.42.44:974][588]LogTexture: Display: Building textures: GSLogo (BGRA8, 873X297)
+[2024.10.27-12.43.08:707][717]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Aseprite\Graveyard Shift\Credits.png)
+[2024.10.27-12.43.08:708][717]LogTexture: Display: Building textures: Credits (BGRA8, 330X100)
+[2024.10.27-12.43.09:874][730]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Aseprite\Graveyard Shift\CreditsScreen.png)
+[2024.10.27-12.43.09:888][730]LogTexture: Display: Building textures: CreditsScreen (BGRA8, 1721X829)
+[2024.10.27-12.43.11:539][767]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Aseprite\Graveyard Shift\Controls.png)
+[2024.10.27-12.43.11:548][767]LogTexture: Display: Building textures: Controls (BGRA8, 1634X526)
+[2024.10.27-12.43.16:436][793]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Aseprite\Graveyard Shift\Quit.png)
+[2024.10.27-12.43.16:437][793]LogTexture: Display: Building textures: Quit (BGRA8, 330X100)
+[2024.10.27-12.43.17:906][809]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Aseprite\Graveyard Shift\pressspace.png)
+[2024.10.27-12.43.17:909][809]LogTexture: Display: Building textures: pressspace (BGRA8, 879X91)
+[2024.10.27-12.43.46:700][ 43]LogSlate: Window 'Extract sprites' being destroyed
+[2024.10.27-12.43.47:566][105]LogSlate: Window 'Extract sprites' being destroyed
+[2024.10.27-12.43.48:784][247]LogSlate: Window 'Extract sprites' being destroyed
+[2024.10.27-12.43.51:203][528]LogSlate: Window 'Extract sprites' being destroyed
+[2024.10.27-12.43.52:137][625]LogSlate: Window 'Extract sprites' being destroyed
+[2024.10.27-12.43.58:075][326]LogSlate: Window 'Extract sprites' being destroyed
+[2024.10.27-12.45.46:462][736]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.10.27-12.47.26:498][313]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.10.27-12.47.57:015][297]LogEditorTransaction: Undo Edit Image
+[2024.10.27-12.48.05:316][223]LogEditorTransaction: Redo Edit Image
+[2024.10.27-12.48.16:359][433]LogEditorTransaction: Undo Changed Anchors
+[2024.10.27-12.48.19:055][693]LogEditorTransaction: Redo Changed Anchors
+[2024.10.27-12.48.30:438][ 26]BlueprintLog: New page: Compile MenuWidget
+[2024.10.27-12.48.30:483][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2024.10.27-12.50.00:622][368]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/MenuWidgetCFB7F6A640208A10DCFB14B4633D3156.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MenuWidget.uasset'
+[2024.10.27-12.50.00:639][368]AssetCheck: New page: Asset Save: MenuWidget
+[2024.10.27-12.50.00:639][368]LogContentValidation: Display: Validating WidgetBlueprint /Game/2DSideScrollerBP/NathanFolder/MenuWidget.MenuWidget
+[2024.10.27-12.50.10:776][405]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.10.27-12.50.10:786][405]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.10.27-12.50.15:582][981]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> CreditsScreenWidget
+[2024.10.27-12.50.15:583][981]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.10.27-12.50.16:894][133]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/2DSideScrollerBP/NathanFolder/CreditsScreenWidget.CreditsScreenWidget
+[2024.10.27-12.50.51:390][468]BlueprintLog: New page: Compile CreditsScreenWidget
+[2024.10.27-12.50.51:418][468]LogUObjectHash: Compacting FUObjectHashTables data took   5.31ms
+[2024.10.27-12.51.30:082][950]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2024.10.27-12.53.04:361][819]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.27-12.53.05:869][819]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.10.27-12.53.05:880][819]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.10.27-12.53.05:891][819]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.10.27-12.53.08:772][155]LogContentBrowser: Attempting asset rename: NewBlueprint -> MenuHandler
+[2024.10.27-12.53.08:775][155]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.10.27-12.53.09:938][288]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/NathanFolder/MenuHandler.MenuHandler
+[2024.10.27-12.53.10:585][289]LogRenderer: Reallocating scene render targets to support 1208x1012 Format 10 NumSamples 1 (Frame:1).
+[2024.10.27-12.53.18:747][174]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2024.10.27-12.53.18:761][174]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.27-12.53.32:245][604]LogSlate: Took 0.000302 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.10.27-12.54.40:638][988]BlueprintLog: New page: Compile MenuHandler
+[2024.10.27-12.54.40:700][988]LogUObjectHash: Compacting FUObjectHashTables data took   8.13ms
+[2024.10.27-12.54.53:060][246]BlueprintLog: New page: Compile MenuHandler
+[2024.10.27-12.54.53:108][246]LogUObjectHash: Compacting FUObjectHashTables data took   7.64ms
+[2024.10.27-12.56.32:033][616]BlueprintLog: New page: Compile MenuHandler
+[2024.10.27-12.56.32:075][616]LogUObjectHash: Compacting FUObjectHashTables data took   7.14ms
+[2024.10.27-12.57.05:037][338]BlueprintLog: New page: Compile MenuHandler
+[2024.10.27-12.57.05:079][338]LogUObjectHash: Compacting FUObjectHashTables data took   7.64ms
+[2024.10.27-12.57.38:689][127]LogSlate: Window 'Project Settings' being destroyed
+[2024.10.27-12.57.38:697][127]LogSlate: Window 'Project Settings' being destroyed
+[2024.10.27-12.58.12:394][926]LogUObjectHash: Compacting FUObjectHashTables data took   7.31ms
+[2024.10.27-12.58.12:400][926]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.036
+[2024.10.27-12.58.12:403][926]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/NathanFolder/MyArt/GSLogo] ([1] browsable assets)...
+[2024.10.27-12.58.12:405][926]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/NathanFolder/MyArt/GSLogo.GSLogo]
+[2024.10.27-12.58.12:405][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/NathanFolder/MyArt/GSLogo]
+[2024.10.27-12.58.12:408][926]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/GSLogo_Auto1D00BFBD84B82C5A675FEA4A36562EBAF.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Autosaves/Game/2DSideScrollerBP/NathanFolder/MyArt/GSLogo_Auto1.uasset'
+[2024.10.27-12.58.12:409][926]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/NathanFolder/MyArt/Credits] ([1] browsable assets)...
+[2024.10.27-12.58.12:410][926]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/NathanFolder/MyArt/Credits.Credits]
+[2024.10.27-12.58.12:410][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/NathanFolder/MyArt/Credits]
+[2024.10.27-12.58.12:412][926]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Credits_Auto1F1ABBB104B51B3236913ABB8EB5016D4.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Autosaves/Game/2DSideScrollerBP/NathanFolder/MyArt/Credits_Auto1.uasset'
+[2024.10.27-12.58.12:413][926]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/NathanFolder/MyArt/CreditsScreen] ([1] browsable assets)...
+[2024.10.27-12.58.12:415][926]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/NathanFolder/MyArt/CreditsScreen.CreditsScreen]
+[2024.10.27-12.58.12:415][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/NathanFolder/MyArt/CreditsScreen]
+[2024.10.27-12.58.12:418][926]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/CreditsScreen_Auto10699BDD44880F43EE0C4A3B29774AB8C.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Autosaves/Game/2DSideScrollerBP/NathanFolder/MyArt/CreditsScreen_Auto1.uasset'
+[2024.10.27-12.58.12:419][926]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/NathanFolder/MyArt/Controls] ([1] browsable assets)...
+[2024.10.27-12.58.12:422][926]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/NathanFolder/MyArt/Controls.Controls]
+[2024.10.27-12.58.12:422][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/NathanFolder/MyArt/Controls]
+[2024.10.27-12.58.12:425][926]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Controls_Auto1590F56184EE3C6FBF6B65AABD1EA4A64.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Autosaves/Game/2DSideScrollerBP/NathanFolder/MyArt/Controls_Auto1.uasset'
+[2024.10.27-12.58.12:425][926]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/NathanFolder/MyArt/Quit] ([1] browsable assets)...
+[2024.10.27-12.58.12:427][926]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/NathanFolder/MyArt/Quit.Quit]
+[2024.10.27-12.58.12:427][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/NathanFolder/MyArt/Quit]
+[2024.10.27-12.58.12:429][926]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Quit_Auto1C2E96416407ECCE9ACA020841A8ACAEC.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Autosaves/Game/2DSideScrollerBP/NathanFolder/MyArt/Quit_Auto1.uasset'
+[2024.10.27-12.58.12:430][926]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/NathanFolder/MyArt/pressspace] ([1] browsable assets)...
+[2024.10.27-12.58.12:430][926]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/NathanFolder/MyArt/pressspace.pressspace]
+[2024.10.27-12.58.12:430][926]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/NathanFolder/MyArt/pressspace]
+[2024.10.27-12.58.12:432][926]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/pressspace_Auto10FD432244EE1BBF79FD4039E4AB3D6A1.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Autosaves/Game/2DSideScrollerBP/NathanFolder/MyArt/pressspace_Auto1.uasset'
+[2024.10.27-12.58.12:433][926]LogFileHelpers: Auto-saving content packages took 0.033
+[2024.10.27-12.58.21:482][492]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.10.27-12.58.21:500][492]LogContentBrowser: Creating deferred item: NewFolder
+[2024.10.27-12.58.43:172][ 91]LogContentBrowser: Attempting asset rename: NewFolder -> Clouds
+[2024.10.27-12.58.43:172][ 91]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.27-12.59.39:227][113]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Aseprite\Graveyard Shift\Thunderclouds-Sheet.png)
+[2024.10.27-12.59.44:172][113]LogSlate: Window 'Message' being destroyed
+[2024.10.27-12.59.44:177][113]Message dialog closed, result: No, title: Message, text: Attempting to import 24,960 x 1,080 texture, proceed?
+Largest supported texture size: 16,384 x 16,384
+[2024.10.27-12.59.44:177][113]Error: Texture import failed
+[2024.10.27-12.59.45:254][113]LogSlate: Window 'Message' being destroyed
+[2024.10.27-12.59.45:258][113]Message dialog closed, result: Ok, title: Message, text: Failed to import 'F:\Aseprite\Graveyard Shift\Thunderclouds-Sheet.png'. Failed to create asset '/Game/2DSideScrollerBP/NathanFolder/MyArt/Clouds/Thunderclouds-Sheet'.
+Please see Output Log for details.
+[2024.10.27-12.59.45:258][113]LogAssetTools: Warning: Failed to import 'F:\Aseprite\Graveyard Shift\Thunderclouds-Sheet.png'. Failed to create asset '/Game/2DSideScrollerBP/NathanFolder/MyArt/Clouds/Thunderclouds-Sheet'.
+Please see Output Log for details.
+[2024.10.27-13.00.47:435][647]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Aseprite\Graveyard Shift\Thunderclouds-Sheet-Sheet-export.png)
+[2024.10.27-13.00.47:596][647]LogTexture: Display: Building textures: Thunderclouds-Sheet-Sheet-export (OODLE_AutoDXT, 5760X3240)
+[2024.10.27-13.00.47:719][647]LogTextureFormatOodle: Display: non-RDO encode 5760 x 3240 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.10.27-13.00.51:450][876]LogTexture: Display: Building textures: Thunderclouds-Sheet-Sheet-export (BGRA8, 5760X3240)
+[2024.10.27-13.01.07:654][ 80]LogSlate: Window 'Extract sprites' being destroyed
+[2024.10.27-13.01.13:656][749]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.10.27-13.01.13:657][749]LogContentBrowser: Deferred new asset file creation: Thunderclouds-Sheet-Sheet-export1
+[2024.10.27-13.01.13:671][749]LogContentBrowser: Creating deferred item: Thunderclouds-Sheet-Sheet-export1
+[2024.10.27-13.01.20:231][535]LogContentBrowser: Attempting asset rename: Thunderclouds-Sheet-Sheet-export1 -> ThundercloudsBG
+[2024.10.27-13.01.20:231][535]LogContentBrowser: End creating deferred item Thunderclouds-Sheet-Sheet-export1
+[2024.10.27-13.01.21:780][705]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/2DSideScrollerBP/NathanFolder/MyArt/Clouds/ThundercloudsBG.ThundercloudsBG
+[2024.10.27-13.01.21:841][706]LogRenderer: Reallocating scene render targets to support 1528x1012 Format 10 NumSamples 1 (Frame:1).
+[2024.10.27-13.03.16:247][505]Cmd: TRANSACTION UNDO
+[2024.10.27-13.03.16:247][505]LogEditorTransaction: Undo Insert assets as frames
+[2024.10.27-13.03.42:958][377]Cmd: TRANSACTION UNDO
+[2024.10.27-13.03.42:958][377]LogEditorTransaction: Undo Delete Keyframe
+[2024.10.27-13.03.45:249][605]Cmd: TRANSACTION UNDO
+[2024.10.27-13.03.45:249][605]LogEditorTransaction: Undo Reorder key frames
+[2024.10.27-13.03.45:944][685]Cmd: TRANSACTION UNDO
+[2024.10.27-13.03.45:944][685]LogEditorTransaction: Undo Insert assets as frames
+[2024.10.27-13.04.10:612][600]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/ThundercloudsBG97E7E2B5410B85CAC9FD64BDEE11654B.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Clouds/ThundercloudsBG.uasset'
+[2024.10.27-13.04.10:631][600]AssetCheck: New page: Asset Save: ThundercloudsBG
+[2024.10.27-13.04.10:631][600]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScrollerBP/NathanFolder/MyArt/Clouds/ThundercloudsBG.ThundercloudsBG
+[2024.10.27-13.04.23:716][ 26]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.10.27-13.04.23:728][ 26]LogContentBrowser: Creating deferred item: NewFolder
+[2024.10.27-13.04.26:693][381]LogContentBrowser: Attempting asset rename: NewFolder -> Dirt
+[2024.10.27-13.04.26:693][381]LogContentBrowser: End creating deferred item NewFolder
+[2024.10.27-13.05.17:494][868]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Aseprite\Graveyard Shift\Dirt_GoAway.png)
+[2024.10.27-13.05.17:571][868]LogTexture: Display: Building textures: Dirt_GoAway (OODLE_AutoDXT, 7680X1080)
+[2024.10.27-13.05.17:624][868]LogTextureFormatOodle: Display: non-RDO encode 7680 x 1080 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.10.27-13.05.23:164][912]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Aseprite\Graveyard Shift\Dirt_ComeDown.png)
+[2024.10.27-13.05.23:264][912]LogTexture: Display: Building textures: Dirt_ComeDown (OODLE_AutoDXT, 9600X1080)
+[2024.10.27-13.05.23:339][912]LogTextureFormatOodle: Display: non-RDO encode 9600 x 1080 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.10.27-13.05.24:865][948]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 F:\Aseprite\Graveyard Shift\Dirt_ComeUp.png)
+[2024.10.27-13.05.24:939][948]LogTexture: Display: Building textures: Dirt_ComeUp (OODLE_AutoDXT, 7680X1080)
+[2024.10.27-13.05.24:984][948]LogTextureFormatOodle: Display: non-RDO encode 7680 x 1080 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2024.10.27-13.05.30:150][360]LogTexture: Display: Building textures: Dirt_ComeDown (BGRA8, 9600X1080)
+[2024.10.27-13.05.30:245][360]LogTexture: Display: Building textures: Dirt_GoAway (BGRA8, 7680X1080)
+[2024.10.27-13.05.30:327][360]LogTexture: Display: Building textures: Dirt_ComeUp (BGRA8, 7680X1080)
+[2024.10.27-13.05.45:856][674]LogSlate: Window 'Extract sprites' being destroyed
+[2024.10.27-13.05.52:868][357]LogSlate: Window 'Extract sprites' being destroyed
+[2024.10.27-13.05.59:299][913]LogSlate: Window 'Extract sprites' being destroyed
+[2024.10.27-13.06.05:064][571]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.10.27-13.06.05:064][571]LogContentBrowser: Deferred new asset file creation: Dirt_GoAway1
+[2024.10.27-13.06.05:078][571]LogContentBrowser: Creating deferred item: Dirt_GoAway1
+[2024.10.27-13.06.05:921][672]LogContentBrowser: Attempting asset rename: Dirt_GoAway1 -> Dirt_GoAway1
+[2024.10.27-13.06.05:922][672]LogContentBrowser: End creating deferred item Dirt_GoAway1
+[2024.10.27-13.06.07:985][917]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_GoAway1.Dirt_GoAway1
+[2024.10.27-13.06.27:443][117]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Dirt_GoAway1BF3EE28F4BADC4456EF12CB8BC7C8013.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_GoAway1.uasset'
+[2024.10.27-13.06.27:460][117]AssetCheck: New page: Asset Save: Dirt_GoAway1
+[2024.10.27-13.06.27:460][117]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_GoAway1.Dirt_GoAway1
+[2024.10.27-13.06.35:792][ 54]LogContentBrowser: Attempting asset rename: Dirt_GoAway1 -> Dirt_GoAwayFB
+[2024.10.27-13.06.35:830][ 54]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Dirt_GoAwayFBCB4275694F5B7F46C018B1A9AD8F5586.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_GoAwayFB.uasset'
+[2024.10.27-13.06.35:920][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   6.09ms
+[2024.10.27-13.06.35:961][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2024.10.27-13.06.35:982][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.10.27-13.06.36:006][ 54]AssetCheck: New page: Asset Save: Dirt_GoAwayFB
+[2024.10.27-13.06.36:006][ 54]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_GoAwayFB.Dirt_GoAwayFB
+[2024.10.27-13.06.43:663][932]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.10.27-13.06.43:664][932]LogContentBrowser: Deferred new asset file creation: Dirt_ComeUp1
+[2024.10.27-13.06.43:679][932]LogContentBrowser: Creating deferred item: Dirt_ComeUp1
+[2024.10.27-13.06.46:203][235]LogContentBrowser: Attempting asset rename: Dirt_ComeUp1 -> Dirt_ComeUpGB
+[2024.10.27-13.06.46:203][235]LogContentBrowser: End creating deferred item Dirt_ComeUp1
+[2024.10.27-13.06.50:769][767]LogContentBrowser: Attempting asset rename: Dirt_ComeUpGB -> Dirt_ComeUpFB
+[2024.10.27-13.06.50:809][767]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Dirt_ComeUpFB520157AD41C5753948C829A0E245EB46.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeUpFB.uasset'
+[2024.10.27-13.06.50:898][767]LogUObjectHash: Compacting FUObjectHashTables data took   4.22ms
+[2024.10.27-13.06.50:933][767]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2024.10.27-13.06.50:956][767]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.10.27-13.06.50:980][767]AssetCheck: New page: Asset Save: Dirt_ComeUpFB
+[2024.10.27-13.06.50:980][767]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeUpFB.Dirt_ComeUpFB
+[2024.10.27-13.06.52:122][895]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeUpFB.Dirt_ComeUpFB
+[2024.10.27-13.07.00:807][876]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Dirt_ComeUpFB59E40AC449CD64663EBF4C87514DF5A1.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeUpFB.uasset'
+[2024.10.27-13.07.00:820][876]AssetCheck: New page: Asset Save: Dirt_ComeUpFB
+[2024.10.27-13.07.00:820][876]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeUpFB.Dirt_ComeUpFB
+[2024.10.27-13.07.06:966][585]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SAssetView [SContentBrowser.cpp(749)].
+[2024.10.27-13.07.06:966][585]LogContentBrowser: Deferred new asset file creation: Dirt_ComeDown1
+[2024.10.27-13.07.06:981][585]LogContentBrowser: Creating deferred item: Dirt_ComeDown1
+[2024.10.27-13.07.11:783][161]LogContentBrowser: Attempting asset rename: Dirt_ComeDown1 -> Dirt_ComeDownFB
+[2024.10.27-13.07.11:784][161]LogContentBrowser: End creating deferred item Dirt_ComeDown1
+[2024.10.27-13.07.11:921][173]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeDown_Sprite_0.Dirt_ComeDown_Sprite_0
+[2024.10.27-13.07.11:996][174]LogRenderer: Reallocating scene render targets to support 1528x1028 Format 10 NumSamples 1 (Frame:1).
+[2024.10.27-13.07.12:690][248]LogAssetEditorSubsystem: Opening Asset editor for PaperFlipbook /Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeDownFB.Dirt_ComeDownFB
+[2024.10.27-13.07.24:371][581]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Dirt_ComeDownFB068435524E78605B8B3F0BB45E04F8EC.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeDownFB.uasset'
+[2024.10.27-13.07.24:385][581]AssetCheck: New page: Asset Save: Dirt_ComeDownFB
+[2024.10.27-13.07.24:385][581]LogContentValidation: Display: Validating PaperFlipbook /Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeDownFB.Dirt_ComeDownFB
+[2024.10.27-13.07.32:094][465]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.10.27-13.07.32:095][465]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-13.08.12:990][762]LogUObjectHash: Compacting FUObjectHashTables data took   5.41ms
+[2024.10.27-13.08.12:996][762]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/2DSideScrollerBP/Maps/2DSideScrollerExampleMap' took 0.037
+[2024.10.27-13.08.12:996][762]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/NathanFolder/MyArt/Clouds/Thunderclouds-Sheet-Sheet-export] ([1] browsable assets)...
+[2024.10.27-13.08.12:998][762]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/NathanFolder/MyArt/Clouds/Thunderclouds-Sheet-Sheet-export.Thunderclouds-Sheet-Sheet-export]
+[2024.10.27-13.08.12:998][762]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/NathanFolder/MyArt/Clouds/Thunderclouds-Sheet-Sheet-export]
+[2024.10.27-13.08.13:063][762]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Thunderclouds-Sheet-Sheet-exportCF45D6C942D0E581C1EBD8B551E2D1C5.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Autosaves/Game/2DSideScrollerBP/NathanFolder/MyArt/Clouds/Thunderclouds-Sheet-Sheet-export_Auto2.uasset'
+[2024.10.27-13.08.13:064][762]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_GoAway] ([1] browsable assets)...
+[2024.10.27-13.08.13:065][762]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_GoAway.Dirt_GoAway]
+[2024.10.27-13.08.13:065][762]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_GoAway]
+[2024.10.27-13.08.13:086][762]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Dirt_GoAway_Auto210FCEBEB4DAD45F83AD209847EBFDD80.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Autosaves/Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_GoAway_Auto2.uasset'
+[2024.10.27-13.08.13:087][762]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeDown] ([1] browsable assets)...
+[2024.10.27-13.08.13:088][762]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeDown.Dirt_ComeDown]
+[2024.10.27-13.08.13:088][762]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeDown]
+[2024.10.27-13.08.13:115][762]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Dirt_ComeDown_Auto2884FE36B43FA97E1B543849301DF2E72.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Autosaves/Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeDown_Auto2.uasset'
+[2024.10.27-13.08.13:116][762]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeUp] ([1] browsable assets)...
+[2024.10.27-13.08.13:117][762]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeUp.Dirt_ComeUp]
+[2024.10.27-13.08.13:117][762]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeUp]
+[2024.10.27-13.08.13:139][762]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Dirt_ComeUp_Auto2949220824D95A1D36D909EB3804ABF35.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Autosaves/Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeUp_Auto2.uasset'
+[2024.10.27-13.08.13:140][762]LogFileHelpers: Auto-saving content packages took 0.143
+[2024.10.27-13.08.30:692][846]LogSlate: Window 'Dirt_ComeDown_Sprite_0' being destroyed
+[2024.10.27-13.08.30:696][846]LogSlate: Window 'Dirt_ComeDown_Sprite_0' being destroyed
+[2024.10.27-13.08.30:745][846]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.10.27-13.08.30:745][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-13.08.30:756][846]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.10.27-13.08.30:756][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-13.08.30:788][846]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.10.27-13.08.30:788][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-13.08.30:795][846]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.10.27-13.08.30:796][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-13.08.30:831][846]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.10.27-13.08.30:831][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-13.08.30:875][846]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.10.27-13.08.30:875][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-13.08.30:895][846]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.10.27-13.08.30:895][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-13.08.30:911][846]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.10.27-13.08.30:911][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-13.08.30:924][846]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.10.27-13.08.30:924][846]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.27-13.08.34:813][278]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2024.10.27-13.08.34:851][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/GSLogoA5CBD89E43C1D7A184D1F0A8D43D3EB9.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/GSLogo.uasset'
+[2024.10.27-13.08.34:854][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/CreditsD3144FB54CC8B1D69FCF0E8A6587C301.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Credits.uasset'
+[2024.10.27-13.08.34:874][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/CreditsScreen3D1D798C4C0127EDA64A0A9ADC6A47DC.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/CreditsScreen.uasset'
+[2024.10.27-13.08.34:888][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/ControlsAD2CC8074437C3D4112E1BAE00CD183B.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Controls.uasset'
+[2024.10.27-13.08.34:891][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Quit5990A0FA404CA7B05528BA8DE388DD22.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Quit.uasset'
+[2024.10.27-13.08.34:895][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/pressspace2EF1555A4C409360DB0C7EA74243FA85.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/pressspace.uasset'
+[2024.10.27-13.08.34:901][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/pressspace_Sprite_0BB41B44A40DFCB481630829D66E5277E.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/pressspace_Sprite_0.uasset'
+[2024.10.27-13.08.34:907][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Quit_Sprite_0B673250A406F2400457B2B988FAB4616.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Quit_Sprite_0.uasset'
+[2024.10.27-13.08.34:913][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/GSLogo_Sprite_0482E839F46B57FF81B5A8EAE2DA4F942.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/GSLogo_Sprite_0.uasset'
+[2024.10.27-13.08.34:920][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/CreditsScreen_Sprite_09FD364EA4BBA3A93307421A85A2F5993.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/CreditsScreen_Sprite_0.uasset'
+[2024.10.27-13.08.34:925][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Credits_Sprite_0AD5FFFAD43462FD0C74EEBB6D1ABEC3F.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Credits_Sprite_0.uasset'
+[2024.10.27-13.08.34:931][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Controls_Sprite_07DD7D7574FA201EF61C9E38714815957.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Controls_Sprite_0.uasset'
+[2024.10.27-13.08.34:938][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Controls_Sprite_1691C784546BF899C2D11BC80AE677D53.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Controls_Sprite_1.uasset'
+[2024.10.27-13.08.34:943][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/CreditsScreenWidget4E9ED9554DA3013E4C309A95F01C8BBC.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/CreditsScreenWidget.uasset'
+[2024.10.27-13.08.34:952][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/MenuHandler04F18E1945F71D8CEABB80904ED306F5.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MenuHandler.uasset'
+[2024.10.27-13.08.35:133][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Thunderclouds-Sheet-Sheet-export6C1D7CEA461480756E6A4A937AD59A01.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Clouds/Thunderclouds-Sheet-Sheet-export.uasset'
+[2024.10.27-13.08.35:140][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Thunderclouds-Sheet-Sheet-exportFF0EE9AD422317D8EB3504AC643A6615.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Clouds/Thunderclouds-Sheet-Sheet-export_Sprite_0.uasset'
+[2024.10.27-13.08.35:147][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Thunderclouds-Sheet-Sheet-exportA00245254A247054525521963394A052.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Clouds/Thunderclouds-Sheet-Sheet-export_Sprite_1.uasset'
+[2024.10.27-13.08.35:153][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Thunderclouds-Sheet-Sheet-export55E8D99A41C3336F497738B8BBEA0005.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Clouds/Thunderclouds-Sheet-Sheet-export_Sprite_2.uasset'
+[2024.10.27-13.08.35:159][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Thunderclouds-Sheet-Sheet-export8B245981460C9638CA8248B20892CCBB.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Clouds/Thunderclouds-Sheet-Sheet-export_Sprite_3.uasset'
+[2024.10.27-13.08.35:165][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Thunderclouds-Sheet-Sheet-export099D4DE84E5B618D439C3DB93DE898D5.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Clouds/Thunderclouds-Sheet-Sheet-export_Sprite_4.uasset'
+[2024.10.27-13.08.35:172][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Thunderclouds-Sheet-Sheet-export908A8ECC4367EEDFA9C912BAE167AE43.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Clouds/Thunderclouds-Sheet-Sheet-export_Sprite_5.uasset'
+[2024.10.27-13.08.35:177][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Thunderclouds-Sheet-Sheet-exportA0D1FF73492FE4215C154DA241638716.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Clouds/Thunderclouds-Sheet-Sheet-export_Sprite_6.uasset'
+[2024.10.27-13.08.35:183][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Thunderclouds-Sheet-Sheet-export2C4A2C4346C3C82CDEF9C8A64AFEDFEC.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Clouds/Thunderclouds-Sheet-Sheet-export_Sprite_7.uasset'
+[2024.10.27-13.08.35:189][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Thunderclouds-Sheet-Sheet-export271C41004888CFA6225DE1B375398937.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Clouds/Thunderclouds-Sheet-Sheet-export_Sprite_8.uasset'
+[2024.10.27-13.08.35:272][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Dirt_GoAwayD1B267A243A9AA27B8EC6C8A9FDD177B.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_GoAway.uasset'
+[2024.10.27-13.08.35:377][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Dirt_ComeDownE55B12F749CEA319195FE28F8A46CEAB.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeDown.uasset'
+[2024.10.27-13.08.35:458][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Dirt_ComeUpC05B0A4943D7A36BA02A22ABCE6130A2.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeUp.uasset'
+[2024.10.27-13.08.35:465][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Dirt_ComeUp_Sprite_07FD0067047556F624F4AC18EC7A9D599.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeUp_Sprite_0.uasset'
+[2024.10.27-13.08.35:471][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Dirt_ComeUp_Sprite_167D9BAD848798123FCFCBFA057785F2C.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeUp_Sprite_1.uasset'
+[2024.10.27-13.08.35:477][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Dirt_ComeUp_Sprite_25A84F9CF48469133C7822FB2424C9D57.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeUp_Sprite_2.uasset'
+[2024.10.27-13.08.35:483][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Dirt_ComeUp_Sprite_389EED7DB4A9653B61CDECFA00B3A2D2C.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeUp_Sprite_3.uasset'
+[2024.10.27-13.08.35:489][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Dirt_GoAway_Sprite_020AFD63947A797D40A6CCEA746AA0884.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_GoAway_Sprite_0.uasset'
+[2024.10.27-13.08.35:495][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Dirt_GoAway_Sprite_14D566CD24591E6BD288C06AD80375504.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_GoAway_Sprite_1.uasset'
+[2024.10.27-13.08.35:500][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Dirt_GoAway_Sprite_2B1799CA04F4E4E0D905552BD68C06A60.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_GoAway_Sprite_2.uasset'
+[2024.10.27-13.08.35:507][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Dirt_GoAway_Sprite_3A3DB840440F00DAE97A3F5A3BB9D2A38.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_GoAway_Sprite_3.uasset'
+[2024.10.27-13.08.35:512][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Dirt_ComeDown_Sprite_0F061D06D4B1136960B45CFA68D1EB309.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeDown_Sprite_0.uasset'
+[2024.10.27-13.08.35:518][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Dirt_ComeDown_Sprite_120FE6CF144975A72AF46338715B9D45D.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeDown_Sprite_1.uasset'
+[2024.10.27-13.08.35:523][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Dirt_ComeDown_Sprite_21BB72A8C472F15FD41D309ADAA3EB10A.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeDown_Sprite_2.uasset'
+[2024.10.27-13.08.35:531][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Dirt_ComeDown_Sprite_345B96DF0402753940F06C996AFF8C19F.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeDown_Sprite_3.uasset'
+[2024.10.27-13.08.35:536][278]LogSavePackage: Moving 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Saved/Dirt_ComeDown_Sprite_40E32CF32479330D411557292BA6F9ADC.tmp' to 'C:/Users/C2979333/Documents/GitHub/Graveyard-Shift/GraveyardShift/Content/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeDown_Sprite_4.uasset'
+[2024.10.27-13.08.35:557][278]AssetCheck: New page: Asset Save: multiple assets
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating WidgetBlueprint /Game/2DSideScrollerBP/NathanFolder/CreditsScreenWidget.CreditsScreenWidget
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeDown_Sprite_4.Dirt_ComeDown_Sprite_4
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeDown_Sprite_3.Dirt_ComeDown_Sprite_3
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeDown_Sprite_2.Dirt_ComeDown_Sprite_2
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeDown_Sprite_1.Dirt_ComeDown_Sprite_1
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeDown_Sprite_0.Dirt_ComeDown_Sprite_0
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_GoAway_Sprite_3.Dirt_GoAway_Sprite_3
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_GoAway_Sprite_2.Dirt_GoAway_Sprite_2
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_GoAway_Sprite_1.Dirt_GoAway_Sprite_1
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_GoAway_Sprite_0.Dirt_GoAway_Sprite_0
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeUp_Sprite_3.Dirt_ComeUp_Sprite_3
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeUp_Sprite_2.Dirt_ComeUp_Sprite_2
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeUp_Sprite_1.Dirt_ComeUp_Sprite_1
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeUp_Sprite_0.Dirt_ComeUp_Sprite_0
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeUp.Dirt_ComeUp
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_ComeDown.Dirt_ComeDown
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/NathanFolder/MyArt/Dirt/Dirt_GoAway.Dirt_GoAway
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/NathanFolder/MyArt/GSLogo.GSLogo
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/NathanFolder/MyArt/Credits.Credits
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/NathanFolder/MyArt/CreditsScreen.CreditsScreen
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/NathanFolder/MyArt/Controls.Controls
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/NathanFolder/MyArt/Quit.Quit
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/NathanFolder/MyArt/pressspace.pressspace
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/NathanFolder/MyArt/pressspace_Sprite_0.pressspace_Sprite_0
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/NathanFolder/MyArt/Quit_Sprite_0.Quit_Sprite_0
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/NathanFolder/MyArt/GSLogo_Sprite_0.GSLogo_Sprite_0
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/NathanFolder/MyArt/CreditsScreen_Sprite_0.CreditsScreen_Sprite_0
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/NathanFolder/MyArt/Credits_Sprite_0.Credits_Sprite_0
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/NathanFolder/MyArt/Controls_Sprite_0.Controls_Sprite_0
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/NathanFolder/MyArt/Controls_Sprite_1.Controls_Sprite_1
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/NathanFolder/MenuHandler.MenuHandler
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/NathanFolder/MyArt/Clouds/Thunderclouds-Sheet-Sheet-export_Sprite_8.Thunderclouds-Sheet-Sheet-export_Sprite_8
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/NathanFolder/MyArt/Clouds/Thunderclouds-Sheet-Sheet-export_Sprite_7.Thunderclouds-Sheet-Sheet-export_Sprite_7
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/NathanFolder/MyArt/Clouds/Thunderclouds-Sheet-Sheet-export_Sprite_6.Thunderclouds-Sheet-Sheet-export_Sprite_6
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/NathanFolder/MyArt/Clouds/Thunderclouds-Sheet-Sheet-export_Sprite_5.Thunderclouds-Sheet-Sheet-export_Sprite_5
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/NathanFolder/MyArt/Clouds/Thunderclouds-Sheet-Sheet-export_Sprite_4.Thunderclouds-Sheet-Sheet-export_Sprite_4
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/NathanFolder/MyArt/Clouds/Thunderclouds-Sheet-Sheet-export_Sprite_3.Thunderclouds-Sheet-Sheet-export_Sprite_3
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/NathanFolder/MyArt/Clouds/Thunderclouds-Sheet-Sheet-export_Sprite_2.Thunderclouds-Sheet-Sheet-export_Sprite_2
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/NathanFolder/MyArt/Clouds/Thunderclouds-Sheet-Sheet-export_Sprite_1.Thunderclouds-Sheet-Sheet-export_Sprite_1
+[2024.10.27-13.08.35:557][278]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScrollerBP/NathanFolder/MyArt/Clouds/Thunderclouds-Sheet-Sheet-export_Sprite_0.Thunderclouds-Sheet-Sheet-export_Sprite_0
+[2024.10.27-13.08.35:558][278]LogContentValidation: Display: Validating Texture2D /Game/2DSideScrollerBP/NathanFolder/MyArt/Clouds/Thunderclouds-Sheet-Sheet-export.Thunderclouds-Sheet-Sheet-export
+[2024.10.27-13.08.54:695][837]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2024.10.27-13.08.54:715][837]LogSlate: Window 'GraveyardShift - Unreal Editor' being destroyed
+[2024.10.27-13.08.54:799][838]Cmd: QUIT_EDITOR
+[2024.10.27-13.08.54:799][838]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.10.27-13.08.54:805][838]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.10.27-13.08.54:949][838]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.10.27-13.08.54:949][838]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.10.27-13.08.54:949][838]LogAudio: Display: Audio Device unregistered from world '2DSideScrollerExampleMap'.
+[2024.10.27-13.08.54:949][838]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.27-13.08.54:949][838]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.10.27-13.08.54:965][838]LogAudio: Display: Audio Device Manager Shutdown
+[2024.10.27-13.08.54:965][838]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2024.10.27-13.08.54:968][838]LogExit: Preparing to exit.
+[2024.10.27-13.08.55:018][838]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
